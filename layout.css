@@ -1,0 +1,28 @@
+
+#button_container {
+	margin: auto;
+	width: 960px;
+	text-align: center;
+}
+.col {
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+    background-color: black;
+    }
+
+.row {
+    display: inline-block;
+    border-width: 1px;
+}
+
+#container {
+	width: 960px;
+	margin: auto;
+}
+
+button {
+    height: 45px;
+    width: 150px;
+    margin: 15px 205px;
+}
